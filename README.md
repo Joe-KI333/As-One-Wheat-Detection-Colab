@@ -8,4 +8,4 @@ Demo Video in linkedin Do watch it. Thank you.
 
 [Linkedin Demo](https://www.linkedin.com/posts/joelnadar123_challenge-yolov8-objectdetection-activity-7026604549050159104-WNUE?utm_source=share&utm_medium=member_desktop)
 
-[images](https://github.com/Joe-KI333/As-One-Wheat-Detection-Colab/blob/main/ss.PNG)
+[images](https://res.cloudinary.com/vibely2/video/upload/challenge-entries-videos/xgxxpyrdjmesvwhuoson)
