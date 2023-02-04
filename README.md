@@ -10,5 +10,7 @@ Demo Video in linkedin Do watch it. Thank you.
 
 [Linkedin Demo](https://www.linkedin.com/posts/joelnadar123_challenge-yolov8-objectdetection-activity-7026604549050159104-WNUE?utm_source=share&utm_medium=member_desktop)
 
+CheckOut this Medium Blog Thank you.
+
 [MEDIUM BLOG](https://medium.com/augmented-startups/wheat-detection-using-yolov8-d31c41559b38)
 
